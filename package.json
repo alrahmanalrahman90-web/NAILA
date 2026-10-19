@@ -1,0 +1,6 @@
+{
+  "name": "myschool-openai-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MySchool with OpenAI Chat AI on Vercel"
+}
